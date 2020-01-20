@@ -1,0 +1,1 @@
+Time::DATE_FORMATS[:datetime_jp] = '%Y年%m日%d月 %H時%M分'
